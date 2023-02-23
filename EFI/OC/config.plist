@@ -236,7 +236,7 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>APPL,ig-platform-id</key>
+				<key>AAPL,ig-platform-id</key>
 				<data>AAASGQ==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
